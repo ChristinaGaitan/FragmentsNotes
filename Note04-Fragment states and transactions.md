@@ -55,4 +55,4 @@ Transactions
 
 Referencias
 ------------
-- [#8 Fragment Tutorial Android: Inter-Fragment Communication Part 1 [HD 1080p]](https://www.youtube.com/watch?v=VyyGP_d0Ia8&index=8&list=PLonJJ3BVjZW4lMlpHgL7UNQSGMERcDzHo&nohtml5=False)
+- [#16 Android FragmentTransaction Part 1: Android Application Development Development [HD 1080p]](https://www.youtube.com/watch?v=Nv24t2CJ6yw&index=16&list=PLonJJ3BVjZW4lMlpHgL7UNQSGMERcDzHo)
